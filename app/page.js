@@ -17,7 +17,9 @@ export default function Home() {
           <li>
             sain bnu <code>app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.hahahahhaha</li>
+          <li>
+            Save and see your changes instantly.HOOOOOOOOOOOOOOOOOOOOOOOOOH
+          </li>
         </ol>
 
         <div className={styles.ctas}>
